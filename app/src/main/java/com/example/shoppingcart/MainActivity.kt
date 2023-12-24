@@ -99,12 +99,12 @@ fun getVegetablesList(): List<ShoppingCartItem> {
         ShoppingCartItem("Cauliflower", 40f,R.drawable.cauliflower,"Cauliflower"),
         ShoppingCartItem("Cabbage", 50f,R.drawable.cabbage,"Cabbage"),
         ShoppingCartItem("Bringel", 15f,R.drawable.brinjal,"Bringel"),
-        ShoppingCartItem("Potato", 15f,R.drawable.potato,"Potato"),
-        ShoppingCartItem("Capsicum", 15f,R.drawable.capsicum,"Capsicum"),
-        ShoppingCartItem("Green Chilli", 15f,R.drawable.greenchilli,"Green Chilli"),
-        ShoppingCartItem("Ginger", 15f,R.drawable.onion,"Ginger"),
-        ShoppingCartItem("Tomato", 15f,R.drawable.tomato,"Tomato"),
-        ShoppingCartItem("LadyFinger", 15f,R.drawable.ladyfinger,"LadyFinger"),
+        ShoppingCartItem("Potato", 20f,R.drawable.potato,"Potato"),
+        ShoppingCartItem("Capsicum", 80f,R.drawable.capsicum,"Capsicum"),
+        ShoppingCartItem("Green Chilli", 200f,R.drawable.greenchilli,"Green Chilli"),
+        ShoppingCartItem("Ginger", 300f,R.drawable.onion,"Ginger"),
+        ShoppingCartItem("Tomato", 100f,R.drawable.tomato,"Tomato"),
+        ShoppingCartItem("LadyFinger", 100f,R.drawable.ladyfinger,"LadyFinger"),
     )
 }
 
@@ -114,12 +114,12 @@ fun getFruitsList(): List<ShoppingCartItem> {
         ShoppingCartItem("Orange", 60f, R.drawable.orange, "Orange"),
         ShoppingCartItem("Pomegranate", 200f, R.drawable.pomegranate, "Pomegranate"),
         ShoppingCartItem("Dragon fruit", 500f, R.drawable.dragonfruit, "Dragon fruit"),
-        ShoppingCartItem("Grapes", 60f, R.drawable.grapes, "Grapes"),
-        ShoppingCartItem("Apple", 60f, R.drawable.apple, "Apple"),
-        ShoppingCartItem("Banana", 60f, R.drawable.banana, "Banana"),
-        ShoppingCartItem("Papaya", 60f, R.drawable.papaya, "Papaya"),
-        ShoppingCartItem("Pineapple", 60f, R.drawable.pineapple, "Pineapple"),
-        ShoppingCartItem("Kiwi", 60f, R.drawable.kiwi, "Kiwi"),
+        ShoppingCartItem("Grapes", 300f, R.drawable.grapes, "Grapes"),
+        ShoppingCartItem("Apple", 150f, R.drawable.apple, "Apple"),
+        ShoppingCartItem("Banana", 80f, R.drawable.banana, "Banana"),
+        ShoppingCartItem("Papaya", 50f, R.drawable.papaya, "Papaya"),
+        ShoppingCartItem("Pineapple", 100f, R.drawable.pineapple, "Pineapple"),
+        ShoppingCartItem("Kiwi", 400f, R.drawable.kiwi, "Kiwi"),
     )
 }
 

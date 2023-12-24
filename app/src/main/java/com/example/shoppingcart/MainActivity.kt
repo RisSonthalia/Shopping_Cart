@@ -103,7 +103,7 @@ fun getVegetablesList(): List<ShoppingCartItem> {
         ShoppingCartItem("Capsicum", 80f,R.drawable.capsicum,"Capsicum"),
         ShoppingCartItem("Green Chilli", 200f,R.drawable.greenchilli,"Green Chilli"),
         ShoppingCartItem("Ginger", 300f,R.drawable.onion,"Ginger"),
-        ShoppingCartItem("Tomato", 100f,R.drawable.tomato,"Tomato"),
+        ShoppingCartItem("Tomato", 90f,R.drawable.tomato,"Tomato"),
         ShoppingCartItem("LadyFinger", 100f,R.drawable.ladyfinger,"LadyFinger"),
     )
 }

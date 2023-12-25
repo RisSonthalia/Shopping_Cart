@@ -1,10 +1,17 @@
 Main Menu:
 
-![Main_menu](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/333acf2f-d185-4b44-9fa1-fad5393c1cc5)
-Fruits Screen:
-![Fruits](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/4b4a73ce-6507-43a7-b7d2-0a6f5e90e65f)
+![Main_menu_light](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/e7f2e23d-2240-40e2-8bb1-558d15564cf8)
 Vegetables Screen:
-![Vegetables_2](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/53f0fc60-535c-4957-8118-33a5317e4f52)
+
+
+![Vegetables_light](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/46f1b860-9742-4570-a622-257f6c43ce1d)
+Fruits Screen:
+
+
+![Fruits_Light](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/ee8baadd-6ff0-4b72-a70b-7e09d4e65da8)
 Bill Screen:
-![Bill_Screen](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/ffd0b39a-07f2-4a0b-9a0a-c0997d7f3e42)
+
+
+![Bill_screen_light](https://github.com/RisSonthalia/Shopping_Cart/assets/154369178/c1acf23f-184f-4f6f-8a6d-ffac9421617a)
+
 
